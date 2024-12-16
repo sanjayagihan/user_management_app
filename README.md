@@ -22,7 +22,7 @@ This is a user management application built using React, Redux, and Redux Toolki
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/user-management-app.git
+   git clone origin https://github.com/sanjayagihan/user_management_app
    cd user_management_app
 
 2. Install dependencies:
