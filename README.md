@@ -2,6 +2,8 @@
 
 This is a user management application built using React, Redux, and Redux Toolkit. It allows you to manage users by adding, updating, and displaying user information. 
 
+demo: https://github.com/user-attachments/assets/93928e41-5651-4424-ba6d-025f383f2f25
+
 ## Features
 
 - **User Management**: Add, update, and display user details.
@@ -38,3 +40,10 @@ This is a user management application built using React, Redux, and Redux Toolki
 
 ```bash
 npm test -- Users.test.js
+
+
+
+https://github.com/user-attachments/assets/93928e41-5651-4424-ba6d-025f383f2f25
+
+
+
